@@ -1,0 +1,29 @@
+<title>Isaac</title>
+
+<head>
+<title>Some title</title>
+<style type="text/css">
+<!--
+a { text-decoration : none; color : #000; }
+-->
+</style>
+</head>
+<body>
+
+<font style="font-family:times;font-size:32px;">
+
+<div>
+<p>
+
+<p>
+<a href="https://open.spotify.com/album/3NsR8vxbHLNJY0EUOh8HM4?si=a9JtSHiwREOVJQJ62oI5zA"><b>s</b>potify</a><br>
+</p>
+  
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://music.apple.com/us/album/reception-ep/1803203987"><b>am</b></a><br>
+</p>
+
+</p>  
+</div>
+</body>
+</html>
